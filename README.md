@@ -13,7 +13,7 @@ Este é um jogo simples feito com [Pyxel](https://github.com/kitao/pyxel), uma b
 ## 🏁 Objetivo
 
 - **Ganhe** ao coletar vinte moedas.
-- **Perde** se colidir com uma bola vermelha (o jogo reinicia).
+- **Perde** se colidir com um fantasma (o jogo reinicia).
 
 ## 💡 Tecnologias
 
