@@ -10,6 +10,10 @@ Este é um jogo simples feito com [Pyxel](https://github.com/kitao/pyxel), uma b
 - Colete vinte moedas.
 - Pressione `R` a qualquer momento para reiniciar.
 
+## 📽️ Demonstração
+
+[▶️ Clique aqui para assistir à demonstração do jogo no YouTube](https://youtube.com/shorts/jiaxE11nge0)
+
 ## 🏁 Objetivo
 
 - **Ganhe** ao coletar vinte moedas.
